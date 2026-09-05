@@ -1,0 +1,1 @@
+print("Add launch console starter")
